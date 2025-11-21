@@ -9,7 +9,7 @@ function BaseView() {
       <h2>Working (copy/pasted files)</h2>
       <Working />
       <h2>Broken (from npm, uncomment to see)</h2>
-      {/* <Broken /> */}
+      <Broken />
     </div>
   );
 }
